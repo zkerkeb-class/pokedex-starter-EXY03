@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.pokemon-card{
+  display: flex;
+  flex-direction: column;
+  color: blue;
+  background-color: chocolate;
+}
+
+.pokemon-image{
+  width: 150px;
+  height: 150px;
+}
+
+.pokemon-stats{
+  margin-left: 2px;
+}
+
