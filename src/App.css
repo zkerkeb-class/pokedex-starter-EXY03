@@ -41,19 +41,37 @@
   color: #888;
 }
 
+
 .pokemon-card{
+  max-height: 400px;
+  max-width: 270px;
+  border: 1px solid rgb(217, 0, 255);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 4%;
   display: flex;
   flex-direction: column;
-  color: blue;
-  background-color: chocolate;
 }
+
+
+
+.pokemon-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+}
+
 
 .pokemon-image{
   width: 150px;
   height: 150px;
 }
 
-.pokemon-stats{
-  margin-left: 2px;
+.type-image{
+  width: 130px;
+  height: 30px
+}
+
+.pokemon-list{
+  display: grid;
 }
 
