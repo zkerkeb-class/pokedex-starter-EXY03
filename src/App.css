@@ -71,7 +71,36 @@
   height: 30px
 }
 
-.pokemon-list{
-  display: grid;
+
+.search-bar {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 2px solid #ffcb05; /* Jaune Pokémon */
+  border-radius: 25px;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+  background-color: #fff;
+  color: #333;
 }
+
+.search-bar:focus {
+  border-color: #3b4cca; /* Bleu Pokémon */
+  box-shadow: 0 0 10px rgba(59, 76, 202, 0.5);
+}
+
+
+.pokemon-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  padding: 20px;
+}
+
+
+
+
+
 
