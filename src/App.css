@@ -45,7 +45,7 @@
 .pokemon-card{
   max-height: 400px;
   max-width: 270px;
-  border: 1px solid rgb(217, 0, 255);
+  border: 2px solid #ffcb05;
   padding: 10px;
   margin: 10px;
   border-radius: 4%;
@@ -74,7 +74,7 @@
 
 .search-bar {
   width: 100%;
-  max-width: 300px;
+  max-width: 500px;
   padding: 10px 15px;
   font-size: 16px;
   border: 2px solid #ffcb05; /* Jaune Pokémon */
@@ -83,6 +83,7 @@
   transition: all 0.3s ease-in-out;
   background-color: #fff;
   color: #333;
+  display: block;
 }
 
 .search-bar:focus {
@@ -90,6 +91,41 @@
   box-shadow: 0 0 10px rgba(59, 76, 202, 0.5);
 }
 
+
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  background-color: #3b4cca;
+}
+
+.filter-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  background-color: #3b4cca;
+}
+
+.type-filter {
+  width: 25%;
+  padding: 8px;
+  font-size: 16px;
+  border: 2px solid #ffcb05;
+  border-radius: 4px;
+}
+
+.sort-filter{
+  width: 25%;
+  padding: 8px;
+  font-size: 16px;
+  border: 2px solid #ffcb05;
+  border-radius: 4px;
+}
 
 .pokemon-list {
   display: flex;
