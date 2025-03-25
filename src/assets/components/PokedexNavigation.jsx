@@ -28,9 +28,12 @@ function PokedexNavigation() {
     return matchesSearch && matchesType;
   });
 
-  filteredPokemons = filteredPokemons.sort((a, b) => {
-    return sortOrder === 'asc' ? a.name.french.localeCompare(b.name.french) : b.name.french.localeCompare(a.name.french);
-  });
+  if (sortOrder) {
+    filteredPokemons = filteredPokemons.sort((a, b) => {
+      return sortOrder === 'asc' ? a.name.french.localeCompare(b.name.french) : b.name.french.localeCompare(a.name.french);
+    });
+  }
+
 
   return (
     <div className="pokedex-navigation">
