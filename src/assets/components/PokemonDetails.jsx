@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from "react-router";
-// import axios from "axios";
+import axios from "axios";
 import { useEffect, useState } from "react";
 
 const PokemonDetails = () => {

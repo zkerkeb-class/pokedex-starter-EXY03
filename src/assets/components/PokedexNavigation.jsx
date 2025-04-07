@@ -1,12 +1,23 @@
-import React, { useState } from 'react';
-import pokemons from '../pokemons';
+import React, { useEffect, useState } from 'react';
+// import pokemons from '../pokemons';
 import PokemonCard from './DisplayCard';
+import { getAllPokemons } from '../../services/api';
 
 
 function PokedexNavigation() {
   const [searchTerm, setSearchTerm] = useState('');
   const [selectedType, setSelectedType] = useState('');
   const [sortOrder, setSortOrder] = useState('');
+  const [pokemons, setPokemons] = useState([]);
+
+  const loadPokemons = async () =>{
+    const data = await getAllPokemons();
+    setPokemons(data)
+  }
+
+  useEffect(() =>{
+    loadPokemons();
+  }, [])
 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value);
