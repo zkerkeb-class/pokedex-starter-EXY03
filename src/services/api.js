@@ -41,12 +41,13 @@ export const getAllPokemons = async () => {
 //     }
 // }
 
-// export const updatePokemon = async (id, data) => {
-//     try {
-//         const response = await axios.put("http://localhost:3000/api/pokemons/" + id, data);
-//         return response.data; 
-//     } catch (error) {
-//         console.error("Erreur API:", error);
-//         return []
-//     }
-// }
+export const updatePokemon = async (id, data) => {
+    try {
+      const response = await axios.put(`http://localhost:3000/api/pokemons/` + id, data);
+      return response.data; 
+    } catch (error) {
+      console.error("Erreur API lors de la mise à jour:", error);
+      return null; // Retourne null en cas d'erreur
+    }
+  };
+  

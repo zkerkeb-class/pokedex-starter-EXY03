@@ -14,7 +14,6 @@
 // export default App;
 
 
-import PokedexNavigation from './assets/components/PokedexNavigation';
 import './App.css';
 import { RouterProvider } from 'react-router'
 import router from './assets/config/router';

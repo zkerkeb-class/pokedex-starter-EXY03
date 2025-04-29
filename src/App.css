@@ -90,7 +90,7 @@
   align-items: center;
   gap: 10px;
   margin-bottom: 20px;
-  background-color: #3b4cca;
+
 }
 
 .filter-container{
@@ -99,7 +99,7 @@
   align-items: center;
   gap: 10px;
   margin-bottom: 20px;
-  background-color: #3b4cca;
+
 }
 
 .type-filter {
@@ -127,10 +127,66 @@
 }
 
 
+/* Styles pour le bouton shiny */
+.pokemon-image-container {
+  position: relative;
+  display: inline-block;
+}
 
+.shiny-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background-color: #333;
+  border: 2px solid gold;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
 
+.shiny-button:hover {
+  background-color: black;
+  transform: scale(1.1);
+}
 
+.shiny-button.active {
+  background-color: gold;
+  color : gold;
+  box-shadow: 0 0 10px gold;
+  animation: pulse 1.5s infinite;
+}
 
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
 
+.shiny-badge {
+  color: gold;
+  margin-left: 5px;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+}
+
+/* Effet spécial pour l'image shiny */
+.pokemon-image {
+  transition: filter 0.3s ease;
+}
+
+.pokemon-image-container:hover .pokemon-image {
+  filter: brightness(1.05);
+}
+
+.favorite-button.favorited {
+  color: red !important;
+}
 
 

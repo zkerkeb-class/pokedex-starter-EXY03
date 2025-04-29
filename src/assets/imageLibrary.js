@@ -150,6 +150,161 @@ import dragonite from "./pokemons/149.png";
 import mewtwo from "./pokemons/150.png";
 import mew from "./pokemons/151.png";
 
+import bulbasaurShiny from "./pokemons/shiny/1.png";
+import ivysaurShiny from "./pokemons/shiny/2.png";
+import venusaurShiny from "./pokemons/shiny/3.png";
+import charmanderShiny from "./pokemons/shiny/4.png";
+import charmeleonShiny from "./pokemons/shiny/5.png";
+import charizardShiny from "./pokemons/shiny/6.png";
+import squirtleShiny from "./pokemons/shiny/7.png";
+import wartortleShiny from "./pokemons/shiny/8.png";
+import blastoiseShiny from "./pokemons/shiny/9.png";
+import caterpieShiny from "./pokemons/shiny/10.png";
+import metapodShiny from "./pokemons/shiny/11.png";
+import butterfreeShiny from "./pokemons/shiny/12.png";
+import weedleShiny from "./pokemons/shiny/13.png";
+import kakunaShiny from "./pokemons/shiny/14.png";
+import beedrillShiny from "./pokemons/shiny/15.png";
+import pidgeyShiny from "./pokemons/shiny/16.png";
+import pidgeottoShiny from "./pokemons/shiny/17.png";
+import pidgeotShiny from "./pokemons/shiny/18.png";
+import rattataShiny from "./pokemons/shiny/19.png";
+import raticateShiny from "./pokemons/shiny/20.png";
+import spearowShiny from "./pokemons/shiny/21.png";
+import fearowShiny from "./pokemons/shiny/22.png";
+import ekansShiny from "./pokemons/shiny/23.png";
+import arbokShiny from "./pokemons/shiny/24.png";
+import pikachuShiny from "./pokemons/shiny/25.png";
+import raichuShiny from "./pokemons/shiny/26.png";
+import sandshrewShiny from "./pokemons/shiny/27.png";
+import sandslashShiny from "./pokemons/shiny/28.png";
+import nidoranFShiny from "./pokemons/shiny/29.png";
+import nidorinaShiny from "./pokemons/shiny/30.png";
+import nidoqueenShiny from "./pokemons/shiny/31.png";
+import nidoranMShiny from "./pokemons/shiny/32.png";
+import nidorinoShiny from "./pokemons/shiny/33.png";
+import nidokingShiny from "./pokemons/shiny/34.png";
+import clefairyShiny from "./pokemons/shiny/35.png";
+import clefableShiny from "./pokemons/shiny/36.png";
+import vulpixShiny from "./pokemons/shiny/37.png";
+import ninetalesShiny from "./pokemons/shiny/38.png";
+import jigglypuffShiny from "./pokemons/shiny/39.png";
+import wigglytuffShiny from "./pokemons/shiny/40.png";
+import zubatShiny from "./pokemons/shiny/41.png";
+import golbatShiny from "./pokemons/shiny/42.png";
+import oddishShiny from "./pokemons/shiny/43.png";
+import gloomShiny from "./pokemons/shiny/44.png";
+import vileplumeShiny from "./pokemons/shiny/45.png";
+import parasShiny from "./pokemons/shiny/46.png";
+import parasectShiny from "./pokemons/shiny/47.png";
+import venonatShiny from "./pokemons/shiny/48.png";
+import venomothShiny from "./pokemons/shiny/49.png";
+import diglettShiny from "./pokemons/shiny/50.png";
+import dugtrioShiny from "./pokemons/shiny/51.png";
+import meowthShiny from "./pokemons/shiny/52.png";
+import persianShiny from "./pokemons/shiny/53.png";
+import psyduckShiny from "./pokemons/shiny/54.png";
+import golduckShiny from "./pokemons/shiny/55.png";
+import mankeyShiny from "./pokemons/shiny/56.png";
+import primeapeShiny from "./pokemons/shiny/57.png";
+import growlitheShiny from "./pokemons/shiny/58.png";
+import arcanineShiny from "./pokemons/shiny/59.png";
+import poliwagShiny from "./pokemons/shiny/60.png";
+import poliwhirlShiny from "./pokemons/shiny/61.png";
+import poliwrathShiny from "./pokemons/shiny/62.png";
+import abraShiny from "./pokemons/shiny/63.png";
+import kadabraShiny from "./pokemons/shiny/64.png";
+import alakazamShiny from "./pokemons/shiny/65.png";
+import machopShiny from "./pokemons/shiny/66.png";
+import machokeShiny from "./pokemons/shiny/67.png";
+import machampShiny from "./pokemons/shiny/68.png";
+import bellsproutShiny from "./pokemons/shiny/69.png";
+import weepinbellShiny from "./pokemons/shiny/70.png";
+import victreebelShiny from "./pokemons/shiny/71.png";
+import tentacoolShiny from "./pokemons/shiny/72.png";
+import tentacruelShiny from "./pokemons/shiny/73.png";
+import geodudeShiny from "./pokemons/shiny/74.png";
+import gravelerShiny from "./pokemons/shiny/75.png";
+import golemShiny from "./pokemons/shiny/76.png";
+import ponytaShiny from "./pokemons/shiny/77.png";
+import rapidashShiny from "./pokemons/shiny/78.png";
+import slowpokeShiny from "./pokemons/shiny/79.png";
+import slowbroShiny from "./pokemons/shiny/80.png";
+import magnemiteShiny from "./pokemons/shiny/81.png";
+import magnetonShiny from "./pokemons/shiny/82.png";
+import farfetchdShiny from "./pokemons/shiny/83.png";
+import doduoShiny from "./pokemons/shiny/84.png";
+import dodrioShiny from "./pokemons/shiny/85.png";
+import seelShiny from "./pokemons/shiny/86.png";
+import dewgongShiny from "./pokemons/shiny/87.png";
+import grimerShiny from "./pokemons/shiny/88.png";
+import mukShiny from "./pokemons/shiny/89.png";
+import shellderShiny from "./pokemons/shiny/90.png";
+import cloysterShiny from "./pokemons/shiny/91.png";
+import gastlyShiny from "./pokemons/shiny/92.png";
+import haunterShiny from "./pokemons/shiny/93.png";
+import gengarShiny from "./pokemons/shiny/94.png";
+import onixShiny from "./pokemons/shiny/95.png";
+import drowzeeShiny from "./pokemons/shiny/96.png";
+import hypnoShiny from "./pokemons/shiny/97.png";
+import krabbyShiny from "./pokemons/shiny/98.png";
+import kinglerShiny from "./pokemons/shiny/99.png";
+import voltorbShiny from "./pokemons/shiny/100.png";
+import electrodeShiny from "./pokemons/shiny/101.png";
+import exeggcuteShiny from "./pokemons/shiny/102.png";
+import exeggutorShiny from "./pokemons/shiny/103.png";
+import cuboneShiny from "./pokemons/shiny/104.png";
+import marowakShiny from "./pokemons/shiny/105.png";
+import hitmonleeShiny from "./pokemons/shiny/106.png";
+import hitmonchanShiny from "./pokemons/shiny/107.png";
+import lickitungShiny from "./pokemons/shiny/108.png";
+import koffingShiny from "./pokemons/shiny/109.png";
+import weezingShiny from "./pokemons/shiny/110.png";
+import rhyhornShiny from "./pokemons/shiny/111.png";
+import rhydonShiny from "./pokemons/shiny/112.png";
+import chanseyShiny from "./pokemons/shiny/113.png";
+import tangelaShiny from "./pokemons/shiny/114.png";
+import kangaskhanShiny from "./pokemons/shiny/115.png";
+import horseaShiny from "./pokemons/shiny/116.png";
+import seadraShiny from "./pokemons/shiny/117.png";
+import goldeenShiny from "./pokemons/shiny/118.png";
+import seakingShiny from "./pokemons/shiny/119.png";
+import staryuShiny from "./pokemons/shiny/120.png";
+import starmieShiny from "./pokemons/shiny/121.png";
+import mrMimeShiny from "./pokemons/shiny/122.png";
+import scytherShiny from "./pokemons/shiny/123.png";
+import jynxShiny from "./pokemons/shiny/124.png";
+import electabuzzShiny from "./pokemons/shiny/125.png";
+import magmarShiny from "./pokemons/shiny/126.png";
+import pinsirShiny from "./pokemons/shiny/127.png";
+import taurosShiny from "./pokemons/shiny/128.png";
+import magikarpShiny from "./pokemons/shiny/129.png";
+import gyaradosShiny from "./pokemons/shiny/130.png";
+import laprasShiny from "./pokemons/shiny/131.png";
+import dittoShiny from "./pokemons/shiny/132.png";
+import eeveeShiny from "./pokemons/shiny/133.png";
+import vaporeonShiny from "./pokemons/shiny/134.png";
+import jolteonShiny from "./pokemons/shiny/135.png";
+import flareonShiny from "./pokemons/shiny/136.png";
+import porygonShiny from "./pokemons/shiny/137.png";
+import omanyteShiny from "./pokemons/shiny/138.png";
+import omastarShiny from "./pokemons/shiny/139.png";
+import kabutoShiny from "./pokemons/shiny/140.png";
+import kabutopsShiny from "./pokemons/shiny/141.png";
+import aerodactylShiny from "./pokemons/shiny/142.png";
+import snorlaxShiny from "./pokemons/shiny/143.png";
+import articunoShiny from "./pokemons/shiny/144.png";
+import zapdosShiny from "./pokemons/shiny/145.png";
+import moltresShiny from "./pokemons/shiny/146.png";
+import dratiniShiny from "./pokemons/shiny/147.png";
+import dragonairShiny from "./pokemons/shiny/148.png";
+import dragoniteShiny from "./pokemons/shiny/149.png";
+import mewtwoShiny from "./pokemons/shiny/150.png";
+import mewShiny from "./pokemons/shiny/151.png";
+
+
+
+
 export const pokemonImages = {
   1: bulbasaur,
   2: ivysaur,
@@ -303,3 +458,159 @@ export const pokemonImages = {
   150: mewtwo,
   151: mew
 }
+
+export const pokemonShinyImages = {
+  1: bulbasaurShiny,
+  2: ivysaurShiny,
+  3: venusaurShiny,
+  4: charmanderShiny,
+  5: charmeleonShiny,
+  6: charizardShiny,
+  7: squirtleShiny,
+  8: wartortleShiny,
+  9: blastoiseShiny,
+  10: caterpieShiny,
+  11: metapodShiny,
+  12: butterfreeShiny,
+  13: weedleShiny,
+  14: kakunaShiny,
+  15: beedrillShiny,
+  16: pidgeyShiny,
+  17: pidgeottoShiny,
+  18: pidgeotShiny,
+  19: rattataShiny,
+  20: raticateShiny,
+  21: spearowShiny,
+  22: fearowShiny,
+  23: ekansShiny,
+  24: arbokShiny,
+  25: pikachuShiny,
+  26: raichuShiny,
+  27: sandshrewShiny,
+  28: sandslashShiny,
+  29: nidoranFShiny,
+  30: nidorinaShiny,
+  31: nidoqueenShiny,
+  32: nidoranMShiny,
+  33: nidorinoShiny,
+  34: nidokingShiny,
+  35: clefairyShiny,
+  36: clefableShiny,
+  37: vulpixShiny,
+  38: ninetalesShiny,
+  39: jigglypuffShiny,
+  40: wigglytuffShiny,
+  41: zubatShiny,
+  42: golbatShiny,
+  43: oddishShiny,
+  44: gloomShiny,
+  45: vileplumeShiny,
+  46: parasShiny,
+  47: parasectShiny,
+  48: venonatShiny,
+  49: venomothShiny,
+  50: diglettShiny,
+  51: dugtrioShiny,
+  52: meowthShiny,
+  53: persianShiny,
+  54: psyduckShiny,
+  55: golduckShiny,
+  56: mankeyShiny,
+  57: primeapeShiny,
+  58: growlitheShiny,
+  59: arcanineShiny,
+  60: poliwagShiny,
+  61: poliwhirlShiny,
+  62: poliwrathShiny,
+  63: abraShiny,
+  64: kadabraShiny,
+  65: alakazamShiny,
+  66: machopShiny,
+  67: machokeShiny,
+  68: machampShiny,
+  69: bellsproutShiny,
+  70: weepinbellShiny,
+  71: victreebelShiny,
+  72: tentacoolShiny,
+  73: tentacruelShiny,
+  74: geodudeShiny,
+  75: gravelerShiny,
+  76: golemShiny,
+  77: ponytaShiny,
+  78: rapidashShiny,
+  79: slowpokeShiny,
+  80: slowbroShiny,
+  81: magnemiteShiny,
+  82: magnetonShiny,
+  83: farfetchdShiny,
+  84: doduoShiny,
+  85: dodrioShiny,
+  86: seelShiny,
+  87: dewgongShiny,
+  88: grimerShiny,
+  89: mukShiny,
+  90: shellderShiny,
+  91: cloysterShiny,
+  92: gastlyShiny,
+  93: haunterShiny,
+  94: gengarShiny,
+  95: onixShiny,
+  96: drowzeeShiny,
+  97: hypnoShiny,
+  98: krabbyShiny,
+  99: kinglerShiny,
+  100: voltorbShiny,
+  101: electrodeShiny,
+  102: exeggcuteShiny,
+  103: exeggutorShiny,
+  104: cuboneShiny,
+  105: marowakShiny,
+  106: hitmonleeShiny,
+  107: hitmonchanShiny,
+  108: lickitungShiny,
+  109: koffingShiny,
+  110: weezingShiny,
+  111: rhyhornShiny,
+  112: rhydonShiny,
+  113: chanseyShiny,
+  114: tangelaShiny,
+  115: kangaskhanShiny,
+  116: horseaShiny,
+  117: seadraShiny,
+  118: goldeenShiny,
+  119: seakingShiny,
+  120: staryuShiny,
+  121: starmieShiny,
+  122: mrMimeShiny,
+  123: scytherShiny,
+  124: jynxShiny,
+  125: electabuzzShiny,
+  126: magmarShiny,
+  127: pinsirShiny,
+  128: taurosShiny,
+  129: magikarpShiny,
+  130: gyaradosShiny,
+  131: laprasShiny,
+  132: dittoShiny,
+  133: eeveeShiny,
+  134: vaporeonShiny,
+  135: jolteonShiny,
+  136: flareonShiny,
+  137: porygonShiny,
+  138: omanyteShiny,
+  139: omastarShiny,
+  140: kabutoShiny,
+  141: kabutopsShiny,
+  142: aerodactylShiny,
+  143: snorlaxShiny,
+  144: articunoShiny,
+  145: zapdosShiny,
+  146: moltresShiny,
+  147: dratiniShiny,
+  148: dragonairShiny,
+  149: dragoniteShiny,
+  150: mewtwoShiny,
+  151: mewShiny
+}
+
+
